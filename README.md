@@ -18,11 +18,15 @@
 
 ## 🧬 About Me
 
-I'm a software developer with a cross-disciplinary background — over **15 years in molecular diagnostics, genomics research, and regulated clinical laboratory environments**, now building the software that powers those same systems.
+I'm a software developer with a multidisciplinary background spanning science and technology.
 
-Before transitioning into tech, I worked as a **Clinical Bacteriologist**, **Tuberculosis Research Coordinator**, and **Development Engineer** in biotech, giving me deep insight into laboratory workflows, data integrity, and the real-world demands of scientific software.
+I previously spent 15+ years working in molecular diagnostics, genomics research, and regulated clinical laboratory environments, experience that shaped how I approach reliability, data integrity, and complex systems in software.
 
-I hold a **MSc in Molecular Biology & Biotechnology** and a **Diploma in Computer Systems Technology** from Camosun College (Victoria, BC.
+Today I focus on building software across different domains, bringing a strong understanding of real-world workflows, data-driven environments, and systems where accuracy matters.
+
+Before transitioning fully into software development, I worked as a Clinical Bacteriologist, Tuberculosis Research Coordinator, and Development Engineer in biotech.
+
+I hold an MSc in Molecular Biology & Biotechnology and a Diploma in Computer Systems Technology from Camosun College in Victoria.
 
 🔬 Lab Scientist → 💻 Software Developer
 Molecular Biology | Clinical Research | Full-Stack Development
